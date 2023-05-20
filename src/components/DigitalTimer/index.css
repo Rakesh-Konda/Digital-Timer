@@ -1,0 +1,86 @@
+/* Write your CSS here */
+.bg {
+  background-color: #cffcf1;
+  height: 100vh;
+}
+.bg1 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/digital-timer-elapsed-bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+}
+.hhh {
+  display: flex;
+}
+.back {
+  background-color: green;
+  height: 30px;
+  width: 40px;
+  text-align: center;
+  font-weight: bold;
+}
+.di {
+  text-align: center;
+}
+.hk {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.but1 {
+  background-color: transparent;
+  border: 0px solid transparent;
+  font-weight: bold;
+  font-size: 30px;
+}
+.but {
+  background-color: transparent;
+  border: 0px solid transparent;
+  font-size: 20px;
+  font-weight: bold;
+  margin: 10px;
+}
+.sec {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.t {
+  color: #00d9f5;
+  margin-top: 40px;
+}
+.icon {
+  margin-top: 25px;
+}
+.pp {
+  display: flex;
+  margin: 10px;
+}
+.div {
+  display: flex;
+}
+.run {
+  margin-bottom: 40px;
+}
+.icon {
+  width: 30px;
+  height: 30px;
+}
+.cen {
+  background-color: white;
+  height: 120px;
+  width: 120px;
+  border-radius: 120px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
